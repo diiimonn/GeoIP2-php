@@ -1,15 +1,15 @@
 {
-    "name": "geoip2/geoip2",
+    "name": "diiimonn/geoip2",
     "description": "MaxMind GeoIP2 PHP API",
     "keywords": ["geoip", "geoip2", "geolocation", "ip", "maxmind"],
-    "homepage": "https://github.com/maxmind/GeoIP2-php",
+    "homepage": "https://github.com/diiimonn/GeoIP2-php",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Gregory J. Oschwald",
-            "email": "goschwald@maxmind.com",
-            "homepage": "https://www.maxmind.com/"
+            "name": "Dmitry Gavrilenko",
+            "email": "diiimonn@gmail.com",
+            "homepage": "https://github.com/diiimonn"
         }
     ],
     "require": {
